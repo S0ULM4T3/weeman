@@ -42,7 +42,7 @@ Platforms
 -----------
 
 * Linux (any)
-* Mac (Not tested)
+* Mac (any)
 * Windows (Not tested)
 
 [!] If weeman runs on your platform (Mac/Windows), please let me know.
